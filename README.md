@@ -20,7 +20,8 @@
 
 
 
-![Georgi's GitHub stats](https://github-readme-stats.vercel.app/api?xaoccc=xaoccc&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
+
 
 
 <!---
