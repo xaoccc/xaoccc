@@ -1,7 +1,26 @@
-- 👋 Hi, I’m tashev_undead
+- 👋 Hi, I’m Georgi Tashev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/george-tashev-3aab33a/)
+- 🌱 I’m currently learning python fundamentals
+
+
+
+
+<a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.facebook.com/baipesho666">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+<a href="mailto:xaocccc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://discordapp.com/users/tashev_undead#3003">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+
+
+
 
 <!---
 xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
