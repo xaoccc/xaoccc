@@ -20,6 +20,7 @@
 
 
 
+![Georgi's GitHub stats](https://github-readme-stats.vercel.app/api?xaoccc=xaoccc&show_icons=true&theme=radical)
 
 
 <!---
