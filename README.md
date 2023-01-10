@@ -1,8 +1,8 @@
-:wave: Hey there, 
+:wave: Hey there, I’m Georgi Tashev
 
-I’m Georgi 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python fundamentals
+</> I’m interested in HTML, CSS, JavaScript and Python
+
+<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python fundamentals
 
 
 
@@ -24,7 +24,9 @@ I’m Georgi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoccc)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
