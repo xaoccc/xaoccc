@@ -8,6 +8,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xaoccc&repo=python&theme=dark)](https://github.com/xaoccc/python)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme)
+
+
 <a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
