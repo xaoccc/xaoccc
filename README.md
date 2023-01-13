@@ -6,10 +6,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
 
+[![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xaoccc&repo=python&theme=dark)](https://github.com/xaoccc/python)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme)
-
 
 <a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,6 +23,7 @@
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoccc&exclude_repo=python)](https://github.com/xaoccc/python)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
