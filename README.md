@@ -6,9 +6,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoccc&exclude_repo=python&theme=dark)](https://github.com/xaoccc/python)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoccc&theme=dark)](https://github.com/xaoccc/python)
 
-[![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme)
+[![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xaoccc&repo=python&theme=dark)](https://github.com/xaoccc/python)
 
