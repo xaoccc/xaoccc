@@ -4,6 +4,8 @@
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python fundamentals
 
+<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
 
 [![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme) 
@@ -24,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
 
-<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark" />
+
 <!---
 https://api.codetabs.com/v1/loc/?github=xaoccc/python
 xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
