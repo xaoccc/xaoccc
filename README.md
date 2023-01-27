@@ -4,9 +4,9 @@
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python fundamentals
 
-<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" />
+<img alt="Tashev's GitHub stats" src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)](https://github.com/xaoccc/github-readme) 
 
