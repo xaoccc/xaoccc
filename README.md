@@ -24,7 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
 
-<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc" />
+<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark" />
 <!---
 https://api.codetabs.com/v1/loc/?github=xaoccc/python
 xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
