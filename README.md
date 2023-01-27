@@ -22,10 +22,10 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
+
+
+<img src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc" />
 <!---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 https://api.codetabs.com/v1/loc/?github=xaoccc/python
 xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
