@@ -10,19 +10,19 @@
 
 ![Tashev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark)
 
-<a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
+<a href="https://www.linkedin.com/in/george-tashev-3aab33a/" target="blank_">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.facebook.com/baipesho666">
+<a href="https://www.facebook.com/baipesho666" target="blank_">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
-<a href="mailto:xaocccc@gmail.com">
+<a href="mailto:xaocccc@gmail.com" target="blank_">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://discordapp.com/users/tashev_undead#3003">
+<a href="https://discordapp.com/users/tashev_undead#3003" target="blank_">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://tashev83.blogspot.com/">
+<a href="https://tashev83.blogspot.com/" target="blank_">
   
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
   
