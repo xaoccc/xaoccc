@@ -2,7 +2,7 @@
 
 </> I’m interested in HTML, CSS, JavaScript and Python
 
-<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python fundamentals
+<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python
 
 <img alt="Tashev's GitHub stats" src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" />
 
