@@ -32,7 +32,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
-<centre><img src="https://github.com/xaoccc/xaoccc/blob/main/IDEs.jpg" alt="IDEs" /></centre>
 
 <!---
 https://api.codetabs.com/v1/loc/?github=xaoccc/python
