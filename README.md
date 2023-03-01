@@ -1,6 +1,10 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
 </> I’m interested in HTML, CSS, JavaScript and Python
+<style>
+img {text-align: center;}
+a {text-align: center;}
+</style>
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python
 
