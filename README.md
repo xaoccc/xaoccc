@@ -4,11 +4,11 @@
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python
 
-<img alt="Tashev's GitHub stats" src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" width="495px"/>
+<img alt="Tashev's GitHub stats" src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" width="495px"/>  
+![Tashev's GitHub stats](https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 
 <a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
