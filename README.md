@@ -1,6 +1,7 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I’m interested in HTML, CSS, JavaScript and Python
+</> I’m interested in Python, HTML, CSS, JavaScript and Data bases
+
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python
 
