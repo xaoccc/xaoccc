@@ -3,7 +3,9 @@
 </> I’m interested in Python, HTML, CSS, JavaScript and Data bases
 
 
-<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I’m currently learning Python
+<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning Python
+
+<img src="https://digitalscholar.in/wp-content/uploads/2023/03/chatgpt-logo.png" width="14" /> Using ChatGPT ONLY for help, not for writing whole projects
 
 <img alt="Tashev's GitHub stats. If you see this text, please reload the page." src="https://github-readme-stats-xaoccc.vercel.app/api?username=xaoccc&theme=dark&hide_border=true" width="495px"/>  
 
