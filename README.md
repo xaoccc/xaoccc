@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I’m interested in Python, HTML, CSS, JavaScript, Django and Database
+</> I’m interested in Python, HTML, CSS, JavaScript, Django and Database(MySQL, PostgreSQL, MongoDB)
 
 <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning Python
 
