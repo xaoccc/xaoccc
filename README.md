@@ -2,7 +2,7 @@
 
 </> I’m interested in Python, HTML, CSS, JavaScript, Flask, Django and Database(MySQL, PostgreSQL, MongoDB)
 
-<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning Python
+<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning Python and Flask
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)  
