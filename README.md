@@ -1,8 +1,8 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I’m interested in Python, HTML, CSS, JavaScript and databases
+</> I’m interested in Python, HTML, CSS, JavaScript and databases.
 
-<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning Python
+<img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14" /> I’m currently learning PostgreSQL.
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)  
