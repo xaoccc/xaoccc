@@ -11,9 +11,6 @@
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
 </p>
 
-
-:chart_with_upwards_trend: I’m currently learning PostgreSQL.
-
 :computer: I like hiking and playing PC games.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
