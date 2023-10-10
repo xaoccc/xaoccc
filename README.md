@@ -3,11 +3,13 @@
 </> I’m interested in Python, HTML, CSS, JavaScript and databases.
 
 ## Languages and Tools I use:
+<p float="left">
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
+</p>
 
 
 
