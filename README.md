@@ -7,20 +7,16 @@
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" />
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-plain-wordmark.svg" />
 </p>
-
-
 
 
 :chart_with_upwards_trend: I’m currently learning PostgreSQL.
 
 :computer: I like hiking and playing PC games.
 
- <p align="middle">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
- </p>
 
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 
