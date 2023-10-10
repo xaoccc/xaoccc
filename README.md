@@ -3,7 +3,7 @@
 </> I’m interested in Python, HTML, CSS, JavaScript and databases.
 
 ## Languages and Tools I use:
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/blue" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 
 :chart_with_upwards_trend: I’m currently learning PostgreSQL.
 
