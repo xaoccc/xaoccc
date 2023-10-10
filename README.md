@@ -4,6 +4,10 @@
 
 ## Languages and Tools I use:
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
+<img height="32" width="32" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" />
+
+
+
 
 :chart_with_upwards_trend: I’m currently learning PostgreSQL.
 
