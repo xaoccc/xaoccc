@@ -18,8 +18,9 @@
 
 :computer: I like hiking and playing PC games.
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+ <p align="middle">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+ </p>
 
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 
