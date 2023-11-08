@@ -44,14 +44,14 @@
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
 ## To-Do List:
-JavaScript
-TypeScript
-React
-Linux
-Heroku
-Go
-C++
-Mojo
+JavaScript  
+TypeScript  
+React  
+Linux  
+Heroku  
+Go  
+C++  
+Mojo  
 It will be a long journey...
 
 <!---
