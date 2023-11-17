@@ -1,6 +1,7 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
 </> I’m interested in Python, HTML, CSS, JavaScript and databases.
+➡️: I like hiking, puzzles, escape rooms, board games and computer games.
 
 ## Languages and Tools I use:
 <p float="left">
@@ -16,7 +17,6 @@
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---fVWEM4l--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tq5fahfhe0kdc8muaiyg.png" />
 
-:computer: I like hiking and playing PC games.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
