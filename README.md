@@ -1,7 +1,7 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
 </> I’m interested in Python, HTML, CSS, JavaScript and databases.  
-➡️: I like hiking, puzzles, escape rooms, board games and computer games.
+➡️ I like hiking, puzzles, escape rooms, board games and computer games.
 
 ## Languages and Tools I use:
 <p float="left">
