@@ -17,7 +17,7 @@
 
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 
-<a href="https://www.linkedin.com/in/george-tashev-3aab33a/">
+<a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.facebook.com/baipesho666">
