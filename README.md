@@ -13,11 +13,6 @@
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
 </p>
 
-## Principles I follow:
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s---fVWEM4l--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tq5fahfhe0kdc8muaiyg.png" />
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
