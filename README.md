@@ -16,8 +16,7 @@
 </div>
 
 | First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
