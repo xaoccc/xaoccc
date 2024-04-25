@@ -16,11 +16,8 @@
 </div>
 
 
-
-
-<div align="center";>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
-</div>
+
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 
 <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
