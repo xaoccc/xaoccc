@@ -4,7 +4,7 @@
 ➡️ I like hiking, puzzles, escape rooms, board games and computer games.
 
 ## Languages and Tools I use:
-<div align="right";>
+<div align="justify";>
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
