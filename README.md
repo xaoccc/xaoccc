@@ -15,6 +15,9 @@
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" />
 </div>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d044e8786fec91a4e9dc6f2583cb5d1cf1ed655cb70aeb8d7d610da5cc41b20f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f707974686f6e2d2d76312e706e67"><img align="left" width="30" height="30" src="https://camo.githubusercontent.com/d044e8786fec91a4e9dc6f2583cb5d1cf1ed655cb70aeb8d7d610da5cc41b20f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f707974686f6e2d2d76312e706e67" alt="python--v1" data-canonical-src="https://img.icons8.com/color/48/python--v1.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e739222ecdf853bb04ee9c79d229fbb4efc09d7e53e7ee2b415c5f3eb89a0bba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f76697375616c2d73747564696f2d636f64652d323031392e706e67"><img align="left" width="30" height="30" src="https://camo.githubusercontent.com/e739222ecdf853bb04ee9c79d229fbb4efc09d7e53e7ee2b415c5f3eb89a0bba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="visual-studio-code-2019" data-canonical-src="https://img.icons8.com/color/48/visual-studio-code-2019.png" style="max-width: 100%;"></a>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
