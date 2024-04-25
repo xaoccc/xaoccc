@@ -4,7 +4,7 @@
 ➡️ I like hiking, puzzles, escape rooms, board games and computer games.
 
 ## Languages and Tools I use:
-<div align="center";>
+<div align="justify";>
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
@@ -18,7 +18,7 @@
 
 
 
-
+<div align="center";>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 <img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
@@ -43,7 +43,7 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
-
+</div>
 ## To-Do List:
 JavaScript  
 TypeScript  
