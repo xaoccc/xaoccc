@@ -5,16 +5,19 @@
 
 ## Languages and Tools I use:
 <div style="display: flex; justify-content: space-around;">
-  <div><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" /></div>
-
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" /></div>
- <div style="flex: 1; background-color: #f00; padding: 10px;"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" />  </div>
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" />
 </div>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
