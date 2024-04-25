@@ -5,9 +5,9 @@
 
 ## Languages and Tools I use:
 <div style="display: flex;justify-content: space-evenly;">
-<img height="32" width="32" style="max-width: 100%; src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
+<img height="32" width="32" style="max-width: 100%;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" />
-<img height="32" width="32" style="max-width: 100%; src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
+<img height="32" width="32" style="max-width: 100%;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" />
 <img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
