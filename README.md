@@ -55,13 +55,10 @@
 
 ## To-Do List:
 JavaScript  
-TypeScript  
-React  
-Linux  
-Heroku  
+React 
+Solidity
 Go  
 C++  
-Mojo  
 It will be a long journey...
 
 <!---
