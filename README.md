@@ -55,8 +55,8 @@
 
 ## To-Do List:
 JavaScript  
-React 
-Solidity
+React  
+Solidity  
 Go  
 C++  
 It will be a long journey...
