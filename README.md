@@ -28,7 +28,6 @@
     </div> 
 </div>  
 
-
 <div align="center"> <img alt="Leetcode stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=true" width="495px"/>  
 </div>
 
@@ -36,24 +35,23 @@
 <img alt="Leetcode stats" src="https://leetcode-stats.vercel.app/api?username=xaocccc&theme=Dark" width="495px"/>  
 </div>
 
-<a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.facebook.com/georgi.tashev">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-<a href="mailto:georgi.taschev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://discordapp.com/users/tashev_undead#3003">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://tashev83.blogspot.com/">  
-  
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-  
-</a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/georgi.tashev">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    </a>
+    <a href="mailto:georgi.taschev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://discordapp.com/users/tashev_undead#3003">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://tashev83.blogspot.com/">  
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
