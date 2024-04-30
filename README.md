@@ -23,8 +23,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;"></a>
 
 <div align=center>
-     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+     <a href="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true"></a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
