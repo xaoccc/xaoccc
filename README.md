@@ -37,9 +37,6 @@
     <a href="https://discordapp.com/users/tashev_undead#3003">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>&nbsp;
-    <a href="https://tashev83.blogspot.com/">  
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
