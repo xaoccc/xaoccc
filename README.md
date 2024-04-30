@@ -49,8 +49,3 @@ Go
 C++  
 It will be a long journey...
 
-<!---
-https://api.codetabs.com/v1/loc/?github=xaoccc/python
-xaoccc/xaoccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
