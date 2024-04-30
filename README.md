@@ -22,13 +22,17 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;"></a>  
 
+<p></p>
+<p></p>
 <div></div>  
+<p></p>
+<p></p>
 
 <div align="center"> <img alt="Leetcode stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=false" width="495px"/>  
 </div>
 
 <div align="center">
-<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=github-dark-blue&hide_border=false" width="495px"/>  
+<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
 </div>
 
 <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
