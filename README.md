@@ -11,11 +11,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg"><img alt="Django" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/django/django-original.svg"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg"><img alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/pycharm/pycharm-original.svg"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img  alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"></a>
-    
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg"><img alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img alt="Git" width="26px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"></a>  
 </div>
 
