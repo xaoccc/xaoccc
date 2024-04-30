@@ -41,11 +41,3 @@
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
 
-## To-Do List:
-JavaScript  
-React  
-Solidity  
-Go  
-C++  
-It will be a long journey...
-
