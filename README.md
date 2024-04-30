@@ -24,11 +24,11 @@
 
 <div></div>  
 
-<div align="center"> <img alt="Leetcode stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=dark&hide_border=false" width="495px"/>  
+<div align="center"> <img alt="Leetcode stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=false" width="495px"/>  
 </div>
 
 <div align="center">
-<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
+<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=github-dark-blue&hide_border=false" width="495px"/>  
 </div>
 
 <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
