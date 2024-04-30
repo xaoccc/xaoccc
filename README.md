@@ -35,7 +35,7 @@
 <img alt="Leetcode stats" src="https://leetcode-stats.vercel.app/api?username=xaocccc&theme=Dark" width="495px"/>  
 </div>
 
-<div align="center">
+<div align="center" style="text-decoration: none">
     <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
