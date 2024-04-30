@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-<img alt="Leetcode stats" src="https://leetcode-stats-six.vercel.app/api?username=xaocccc&theme=dark" width="495px"/>  
+<img alt="Leetcode stats" src="https://leetcode-stats.vercel.app/api?username=xaocccc&theme=Dark" width="495px"/>  
 </div>
 
 <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
