@@ -17,7 +17,7 @@
 </div>
 
 
-<div align="center"> <img alt="Leetcode stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=true" width="495px"/>  
+<div align="center"> <img alt="Github streak stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=true" width="495px"/>  
 </div>
 
 <div align="center">
