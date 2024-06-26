@@ -29,7 +29,6 @@
 </div>
 
 <div align="center">   
-    
     [![dfsd](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-tashev-3aab33a/)
     <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
