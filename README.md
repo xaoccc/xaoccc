@@ -31,7 +31,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-    </a>&nbsp;
+    </a> 
     <a href="https://www.facebook.com/georgi.tashev">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>&nbsp;
