@@ -31,15 +31,9 @@
 
 <div align="center">     
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;
-    <a href="https://www.facebook.com/georgi.tashev">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-    </a>&nbsp;
-    <a href="mailto:georgi.taschev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>&nbsp;
-    <a href="https://discordapp.com/users/tashev_undead#3003">
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
+    <a href="https://www.facebook.com/georgi.tashev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;
+    <a href="mailto:georgi.taschev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+    <a href="https://discordapp.com/users/tashev_undead#3003"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=xaoccc&color=brightgreen" alt="watching_count" />
