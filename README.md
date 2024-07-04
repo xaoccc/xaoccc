@@ -28,14 +28,9 @@
 <img alt="Programming Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xaoccc&layout=compact&theme=dark&hide_border=true" width="495px"/>  
 </div>
 
-<style>
-    .links {
-        text-decoration: none;
-    }
-</style>
 
 <div align="center">   
-    <a class="links" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
+    <a style="text-decoration: none;" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>&nbsp;
     <a href="https://www.facebook.com/georgi.tashev">
