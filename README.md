@@ -1,7 +1,8 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
 </> I'm currently learning JavaScript.   
-➡️ I like hiking, puzzles, escape rooms, board games and computer games.
+:star: I like hiking, puzzles, escape rooms, board games and computer games.
+:bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analisys. 
 
 ## Languages and Tools I use:
 <div align="center">
