@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently learning JavaScript. 
+</> I'm currently learning JavaScript.   
 ➡️ I like hiking, puzzles, escape rooms, board games and computer games.
 
 ## Languages and Tools I use:
