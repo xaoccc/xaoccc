@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently learning JavaScript.   
+</> I'm currently learning React.   
 :star: I like hiking, puzzles, escape rooms, board games and computer games.  
 :bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analisys.  
 
