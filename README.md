@@ -7,7 +7,7 @@
 ## Languages and Tools I use:
 <div align="center">
 <img alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="CSS3" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
 <img alt="Django" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/django/django-original.svg">&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,6 @@
 <img  alt="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"></a>  
 </div>
 
 
