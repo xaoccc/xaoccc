@@ -14,7 +14,7 @@
 <img alt="PyCharm" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/pycharm/pycharm-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;
-<img alt="Git" background-color="white" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;
+<img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;
 </div>
 
 
