@@ -10,11 +10,13 @@
 <img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="CSS3" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="TailwindCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;&nbsp;
 <img alt="Django" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/django/django-original.svg">&nbsp;&nbsp;&nbsp;
 <img alt="PyCharm" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/pycharm/pycharm-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="Git" width="30px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" />&nbsp;&nbsp;&nbsp;
+
 </div>
 
 
