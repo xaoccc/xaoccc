@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently learning React.   
+</> I'm currently learning Pandas.   
 :star: I like hiking, puzzles, escape rooms, board games and computer games.  
 :bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analisys.  
 
@@ -18,6 +18,17 @@
 <img alt="Git" width="30px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" />&nbsp;&nbsp;&nbsp;
 
 </div>
+
+## Why did i choose exactly these:
+</> Python: To learn the basics of programming, especially the object-oriented programming (OOP) paradigm, and backend development. It opens doors to learning machine learning (ML), data science, and automation.
+</> JavaScript: To master client-side programming and explore the functional programming paradigm. It is the primary front-end language and opens doors to learning React, Angular, Vue, Node.js, Next.js, TypeScript, and many more.
+</> PostgreSQL: To understand how databases work and handle server errors. It provides a foundation for learning object-relational mapping (ORM) and the Model-View-Controller (MVC) design pattern, especially the Model component.
+</> HTML: An obligatory markup language for every web developer. It is essential for understanding the Document Object Model (DOM) and working with React.
+</> CSS: An obligatory style sheet language for every web developer. It opens doors to using frameworks like Bootstrap and Tailwind CSS.
+</> Bootstrap and Tailwind CSS: Modern frameworks for writing CSS more efficiently. I was particularly interested in learning how they simplify the styling process.
+</> React: A popular JavaScript library for building Single Page Applications (SPA). It is essential for optimizing modern web apps.
+</> Git: The most widely used version control system, allowing teams to collaborate efficiently on large projects. Personally, it helps me organize my projects and work seamlessly across different laptops.
+</> Pandas: I recently started exploring this Python library because I enjoy working with data. I believe it could be useful in web apps, especially when handling large datasets.
 
 
 <div align="center"> <img alt="Github streak stats" src="http://github-readme-streak-stats.herokuapp.com?user=xaoccc&theme=github-dark-blue&hide_border=true" width="495px"/>  
