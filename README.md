@@ -8,6 +8,7 @@
 <div align="center">
 <img alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="CSS3" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="TailwindCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;&nbsp;
