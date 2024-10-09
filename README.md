@@ -40,7 +40,7 @@
 </> Pandas: I recently started exploring this Python library because I enjoy working with data. I believe it could be useful in web apps, especially when handling large datasets.  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xaoccc)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=xaoccc)](https://git.io/streak-stats)</div>
 
 <div align="center">
 <img alt="Leetcode stats" src="https://leetcode-stats.vercel.app/api?username=xaocccc&theme=Dark" width="495px"/>  
