@@ -18,7 +18,6 @@
 <img alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="Git" width="30px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" />&nbsp;&nbsp;&nbsp;
 <img alt="Jenkins" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" />&nbsp;&nbsp;&nbsp;
-
 </div>
 
 ## Why did i choose exactly these:
