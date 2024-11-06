@@ -5,7 +5,7 @@
 :bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analysis.  
 
 ## Languages and Tools I use:
-<div align="center">
+<div align="center" background-color="gray">
 <img alt="Linux" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
