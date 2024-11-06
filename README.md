@@ -6,6 +6,7 @@
 
 ## Languages and Tools I use:
 <div align="center">
+<img alt="Linux" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
 <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
