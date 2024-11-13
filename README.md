@@ -38,7 +38,11 @@
 
 </> Git: The most widely used version control system, allowing teams to collaborate efficiently on large projects. Personally, it helps me organize my projects and work seamlessly across different laptops.  
 
-</> Pandas: I recently started exploring this Python library because I enjoy working with data. I believe it could be useful in web apps, especially when handling large datasets.  
+</> Pandas: I started exploring this Python library because I enjoy working with data. I believe it could be useful in web apps, especially when handling large datasets.  
+
+</> Linux: It is essential in managing servers, handling network configurations, and working with containers (like Docker). It's widely used in server environments due to its stability, security, and flexibility.
+
+</> Docker: You can start apps in different environments easily with minimum additional commands and configurations.
 
 
 <div align="center">
