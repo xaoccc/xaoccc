@@ -46,7 +46,7 @@
 
 
 <div align="center">
-<img alt="Leetcode stats" src="https://leetcode-stats.vercel.app/api?username=xaocccc&theme=Dark" width="495px"/>  
+<img alt="Leetcode stats" src="https://leetcard.jacoblin.cool/xaoccc" width="495px"/>  
 </div>
 
 <div align="center">
