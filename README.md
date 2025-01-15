@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently improving my knowledge about React, particularly React Router. 
+</> I'm currently improving my knowledge about React, particularly React Router.  
 :star: I like hiking, puzzles, escape rooms, board games and computer games.  
 :bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analysis.  
 
