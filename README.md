@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently learning Pandas. 
+</> I'm currently learning Pandas.  
 :star: I like hiking, puzzles, escape rooms, board games and computer games.  
 :bulb: I'm interested in web apps development, web crawling, web scraping, web automation and data analysis.  
 
