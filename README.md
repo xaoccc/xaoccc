@@ -1,6 +1,6 @@
 ### :wave: Hey there, I’m Georgi Tashev
 
-</> I'm currently learning Svelte.  
+</> I'm currently learning Java.  
 :star: I like hiking, puzzles, escape rooms, board games and computer games.  
 
 ## Languages and Tools I use:
