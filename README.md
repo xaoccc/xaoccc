@@ -20,30 +20,6 @@
 <img alt="Jenkins" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" />&nbsp;&nbsp;&nbsp;
 </div>
 
-## Why did i choose exactly these:
-</> Python: To learn the basics of programming, especially the object-oriented programming (OOP) paradigm, and backend development. It opens doors to learning machine learning (ML), data science, and automation.  
-
-</> JavaScript: To master client-side programming and explore the functional programming paradigm. It is the primary front-end language and opens doors to learning React, Angular, Vue, Node.js, Next.js, TypeScript, and many more.  
-
-</> PostgreSQL: To understand how databases work and handle server errors. It provides a foundation for learning object-relational mapping (ORM) and the Model-View-Controller (MVC) design pattern, especially the Model component.  
-
-</> HTML: An obligatory markup language for every web developer. It is essential for understanding the Document Object Model (DOM) and working with React.  
-
-</> CSS: An obligatory style sheet language for every web developer. It opens doors to using frameworks like Bootstrap and Tailwind CSS. 
-
-</> Bootstrap and Tailwind CSS: Modern frameworks for writing CSS more efficiently. I was particularly interested in learning how they simplify the styling process.  
-
-</> React: A popular JavaScript library for building Single Page Applications (SPA). It is essential for optimizing modern web apps.  
-
-</> Git: The most widely used version control system, allowing teams to collaborate efficiently on large projects. Personally, it helps me organize my projects and work seamlessly across different laptops.  
-
-</> Pandas: I started exploring this Python library because I enjoy working with data. I believe it could be useful in web apps, especially when handling large datasets.  
-
-</> Linux: It is essential in managing servers, handling network configurations, and working with containers (like Docker). It's widely used in server environments due to its stability, security, and flexibility.
-
-</> Docker: You can start apps in different environments easily with minimum additional commands and configurations.
-
-
 <div align="center">
 <img alt="Leetcode stats" src="https://leetcard.jacoblin.cool/xaocccc?theme=dark&font=Abel&ext=activity" width="495px"/>  
 </div>
