@@ -19,5 +19,8 @@ jobs:
         uses: StefVuck/Github-Language-Stats@v1.1.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
+          visualization_types: "leaderboard bar pie donut"
           output_path: "stats"
+          dark_mode: "true"
+          
+# For more info visit https://github.com/marketplace/actions/github-profile-language-analytics
