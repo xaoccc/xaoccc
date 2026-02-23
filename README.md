@@ -21,19 +21,19 @@
 </div>
 
 <div align="center">
+<h1>Lines of Code (Excluding HTML and CSS)</h1>
+</div>
+  
+![Language Stats](stats/bar_by_lines.png)
+![Language Stats](stats/donut_by_lines.png) 
+
+<div align="center">
 <img alt="Leetcode stats" src="https://leetcard.jacoblin.cool/xaocccc?theme=dark&font=Abel&ext=activity" width="495px"/>  
 </div>
 
 <div align="center">
 <img alt="Leetcode stats" src="https://streak-stats.demolab.com/?user=xaoccc&theme=Dark" width="495px"/>  
 </div>
-
-<div align="center">
-<h1>Lines of Code (Excluding HTML and CSS)</h1>
-</div>
-
-![Language Stats](stats/bar_by_lines.png)
-![Language Stats](stats/donut_by_lines.png) 
 
 <div align="center">     
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;
