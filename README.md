@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-<h1>Lines of Code</h1>
+<h1>Lines of Code (Excluding HTML and CSS)</h1>
 </div>
 
 ![Language Stats](stats/bar_by_lines.png)
