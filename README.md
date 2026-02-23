@@ -56,9 +56,8 @@
 <h1>Lines of Code</h1>
 </div>
 
-
+![Language Stats](stats/bar_by_lines.png)
 ![Language Stats](stats/donut_by_lines.png) 
-
 
 <div align="center">     
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;
