@@ -23,7 +23,7 @@ jobs:
           exclude_repos: "SEDO-Regular-Exam-2024-10,SeleniumWebDriver"
           include_forks: "false"
           output_path: "stats"
-          exclude_languages: "C#,SCSS,MAKO,PUG,HCL"
+          exclude_languages: "C#,SCSS"
           dark_mode: "true"
           
 # For more info visit https://github.com/marketplace/actions/github-profile-language-analytics
