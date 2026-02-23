@@ -20,6 +20,8 @@ jobs:
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard bar pie donut"
+          exclude_repos: "SEDO-Regular-Exam-2024-10,SeleniumWebDriver"
+          include_forks: "false"
           output_path: "stats"
           dark_mode: "true"
           
