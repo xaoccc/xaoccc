@@ -56,9 +56,9 @@
 <img alt="Programming Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xaoccc&layout=compact&theme=dark&hide_border=true" width="495px"/>  
 </div>
 
-<div align="center">
+
 ![Language Stats](stats/leaderboard_by_lines.png) 
-</div>
+
 
 <div align="center">     
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/georgi-tashev-3aab33a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;
