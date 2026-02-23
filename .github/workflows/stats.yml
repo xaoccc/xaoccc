@@ -1,0 +1,23 @@
+name: GitHub Profile Language Analytics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Language Stats
+        uses: StefVuck/Github-Language-Stats@v1.1.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "leaderboard"
+          output_path: "stats"
