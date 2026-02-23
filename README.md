@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-<img alt="Programming Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xaoccc&layout=compact&theme=dark&hide_border=true" width="495px"/>  
+<h1>Lines of Code</h1>
 </div>
 
 
