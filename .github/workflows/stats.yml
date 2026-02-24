@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Language Stats
-        uses: StefVuck/Github-Language-Stats@v1.1.0
+        uses: xaoccc/Github-Language-Stats@main
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard bar pie donut"
